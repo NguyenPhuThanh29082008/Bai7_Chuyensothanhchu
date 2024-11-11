@@ -83,4 +83,5 @@ case 10:
 }
 
 system("pause");
+return 0;
 }
