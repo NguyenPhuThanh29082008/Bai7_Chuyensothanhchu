@@ -82,5 +82,5 @@ case 10:
 
 }
 
-return 0;
+system("pause");
 }
